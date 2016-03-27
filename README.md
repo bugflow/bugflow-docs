@@ -1,2 +1,3 @@
 # bugflow-docs
-documentation for bugflow
+
+Documentation for Bugflow. Published at https://bugflow.readthedocs.org 

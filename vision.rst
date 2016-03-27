@@ -1,7 +1,7 @@
 Vision
 ======
 
-I use GitHub tickets extensively when to manage development with a distributed, multidiciplinary team.
+I use GitHub tickets extensively to manage development with a distributed multidiciplinary team.
 
 My aspiration is a tool that:
  * automates some of the work I do in the ticket system
